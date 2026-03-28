@@ -25,6 +25,7 @@ My journey in computer enginering has led me to develop a passion for cybersecur
 <div>
 <img src="https://img.shields.io/badge/-Nmap-2C8EBB?&style=for-the-badge&logo=nmap&logoColor=white" />
 <img src="https://img.shields.io/badge/-Nessus-00A1DF?&style=for-the-badge&logo=tenable&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OpenVAS-2C8EBB?&style=for-the-badge&logo=gnu&logoColor=white" />
 </div>
 
 ### Network
