@@ -95,4 +95,4 @@ My journey in computer enginering has led me to develop a passion for cybersecur
 
 ## Projects
 - <a href="https://github.com/Vulie13/Reconnaisance-Analysis-Lab/blob/main/README.md">Reconnaisance & Analysis Lab</a>
-- SOC Automation Project
+- <a href="https://github.com/Vulie13/Designing-and-Securing-a-Cloud-Infrastructure-using-AWS/blob/main/README.md"> Designing and Securing an AWS Cloud Infrastructure </a>
