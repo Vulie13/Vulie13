@@ -12,7 +12,7 @@ My journey in computer enginering has led me to develop a passion for cybersecur
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Reconnaisance & Analysis                      | <a href="https://github.com/Vulie13/Reconnaisance-Analysis-Lab/blob/main/README.md">Reconnaisance & Analysis Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -76,5 +76,5 @@ My journey in computer enginering has led me to develop a passion for cybersecur
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/Vulie13/Reconnaisance-Analysis-Lab/blob/main/README.md">Reconnaisance & Analysis Lab</a>
 - SOC Automation Project
