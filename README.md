@@ -58,21 +58,39 @@ My journey in computer enginering has led me to develop a passion for cybersecur
     <img src="https://img.shields.io/badge/-AWS%20WAF-FF9900?&style=for-the-badge&logo=amazonaws&logoColor=white" />
 </div>
 
+### Penetration Testing
+<div>
+    <img src="https://img.shields.io/badge/-Metasploit-2596CD?&style=for-the-badge&logo=metasploit&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Hydra-2C8EBB?&style=for-the-badge&logo=hydra&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Aircrack--ng-000000?&style=for-the-badge&logo=aircrack-ng&logoColor=white" />
+</div>
+
+### Dynamic & Static Analysis Tools (Malware)
+
+<div>
+<img src="https://img.shields.io/badge/-Any.Run-FF6600?&style=for-the-badge&logo=firefox&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VirusTotal-00A1DF?&style=for-the-badge&logo=virus&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CFF%20Explorer-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Strings-000000?&style=for-the-badge&logo=linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PEStudio-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />
+</div>
+
 ## Certifications
 
 <div>
 <img src="https://img.shields.io/badge/-AWS%20Certified%20Solutions%20Architect%20Associate-FF9900?&style=for-the-badge&logo=amazonaws&logoColor=white" />
     <img src="https://img.shields.io/badge/-CCNA%20Networking-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft%20Azure%20Fundamentals-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 </div>
 
 ## Courses Completed
 
 <div>
-<img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
     <img src="https://img.shields.io/badge/-Linux%20Unhatched-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
     <img src="https://img.shields.io/badge/-Intro%20to%20Cybersecurity-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
     <img src="https://img.shields.io/badge/-Networking%20Essentials-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CCNA%20Security-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
 </div>
 
 ## Projects
