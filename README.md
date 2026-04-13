@@ -13,8 +13,8 @@ My journey in computer enginering has led me to develop a passion for cybersecur
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Network Reconnaissance & Scanning, Vulnerability Assessment,Authentication Testing, Analysis & Reporting                      | <a href="https://github.com/Vulie13/Reconnaisance-Analysis-Lab/blob/main/README.md">Reconnaisance & Analysis Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Cloud Architecture, Security, Networking & Resilience | <a href="https://github.com/Vulie13/Designing-and-Securing-a-Cloud-Infrastructure-using-AWS/blob/main/README.md"> Designing and Securing an AWS Cloud Infrastructure </a>|
+| Security Platforms & Threat Analysis        | <a href="https://github.com/Vulie13/Honeypot-Project-AWS/blob/main/README.md">Honeypot-Project-AWS</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
@@ -92,3 +92,4 @@ My journey in computer enginering has led me to develop a passion for cybersecur
 ## Projects
 - <a href="https://github.com/Vulie13/Reconnaisance-Analysis-Lab/blob/main/README.md">Reconnaisance & Analysis Lab</a>
 - <a href="https://github.com/Vulie13/Designing-and-Securing-a-Cloud-Infrastructure-using-AWS/blob/main/README.md"> Designing and Securing an AWS Cloud Infrastructure </a>
+- <a href="https://github.com/Vulie13/Honeypot-Project-AWS/blob/main/README.md">Honeypot-Project-AWS</a>
