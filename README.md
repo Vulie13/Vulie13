@@ -50,6 +50,7 @@ My journey in computer engineEring has led me to develop a passion for cybersecu
 <img src="https://img.shields.io/badge/-Amazon%20Route%2053-8C4FFF?&style=for-the-badge&logo=amazonaws&logoColor=white" />
     <img src="https://img.shields.io/badge/-AWS%20IAM-DD344C?&style=for-the-badge&logo=amazonaws&logoColor=white" />
     <img src="https://img.shields.io/badge/-AWS%20WAF-FF9900?&style=for-the-badge&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AWS%20Certificate%20Manager-DD344C?&style=for-the-badge&logo=amazonaws&logoColor=white" />
 </div>
 
 ### Penetration Testing
