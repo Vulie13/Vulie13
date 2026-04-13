@@ -88,6 +88,17 @@ My journey in computer enginering has led me to develop a passion for cybersecur
     <img src="https://img.shields.io/badge/-CCNA%20Security-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
 </div>
 
+
+## Professional Training
+#### TryHackMe Security Lab - In Progress
+
+- Hands-on cybersecurity labs covering Linux, networking, web application  security, and incident response
+- Performed vulnerability scanning, enumeration, and basic penetration testing techniques
+- Practiced using tools such as Nmap, Wireshark, Metasploit, and Burp Suite
+- Analyzed security alerts and simulated SOC investigations
+- Documented findings and remediation recommendations
+
+
 ## Projects
 - <a href="https://github.com/Vulie13/Reconnaisance-Analysis-Lab/blob/main/README.md">Reconnaisance & Analysis Lab</a>
 - <a href="https://github.com/Vulie13/Designing-and-Securing-a-Cloud-Infrastructure-using-AWS/blob/main/README.md"> Designing and Securing an AWS Cloud Infrastructure </a>
