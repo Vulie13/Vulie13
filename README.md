@@ -5,7 +5,7 @@ I am a recent computer enginneering master’s graduate specializing in Cybersec
 
 ## Objective
 
-My journey in computer engineEring has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in computer Engineering has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 
@@ -15,6 +15,8 @@ My journey in computer engineEring has led me to develop a passion for cybersecu
 | Cloud Architecture, Security, Networking & Resilience | <a href="https://github.com/Vulie13/Designing-and-Securing-a-Cloud-Infrastructure-using-AWS/blob/main/README.md"> Designing and Securing an AWS Cloud Infrastructure </a>|
 | Security Platforms & Threat Analysis        | <a href="https://github.com/Vulie13/Honeypot-Project-AWS/blob/main/README.md">Honeypot-Project-AWS</a>|
 | Static & Dynamic Malware Analysis     | Malware Project|
+| Incident Investigation,Threat Identification and Remediation action        | <a href="https://github.com/Vulie13/Microsoft-Sentinel-SIEM-Project/blob/main/README.md">Microsoft-Sentinel-SIEM-Project</a>|
+| Log Analysis, Threat Detection & Penetration Testing  | <a href="https://github.com/Vulie13/Cowrie-Honeypot-Project/blob/main/README.md">Cowrie-Honeypot-Project</a>|
 
 
 ## Tools
@@ -103,3 +105,5 @@ My journey in computer engineEring has led me to develop a passion for cybersecu
 - <a href="https://github.com/Vulie13/Reconnaisance-Analysis-Lab/blob/main/README.md">Reconnaisance & Analysis Lab</a>
 - <a href="https://github.com/Vulie13/Designing-and-Securing-a-Cloud-Infrastructure-using-AWS/blob/main/README.md"> Designing and Securing an AWS Cloud Infrastructure </a>
 - <a href="https://github.com/Vulie13/Honeypot-Project-AWS/blob/main/README.md">Honeypot-Project-AWS</a>
+- <a href="https://github.com/Vulie13/Microsoft-Sentinel-SIEM-Project/blob/main/README.md">Microsoft-Sentinel-SIEM-Project</a>
+- <a href="https://github.com/Vulie13/Cowrie-Honeypot-Project/blob/main/README.md">Cowrie-Honeypot-Project</a>
