@@ -88,9 +88,8 @@ My journey in computer Engineering has led me to develop a passion for cybersecu
     <img src="https://img.shields.io/badge/-Linux%20Unhatched-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
     <img src="https://img.shields.io/badge/-Intro%20to%20Cybersecurity-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
     <img src="https://img.shields.io/badge/-Networking%20Essentials-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CCNA%20Security-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />  <a href="YOUR_CERTIFICATE_LINK_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/View-808080?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
+    <img src="https://img.shields.io/badge/-CCNA%20Security-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />  
+ 
 </div>
 
 
