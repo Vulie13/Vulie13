@@ -17,7 +17,8 @@ My journey in computer Engineering has led me to develop a passion for cybersecu
 | Static & Dynamic Malware Analysis     | Malware Project|
 | Incident Investigation,Threat Identification and Remediation action        | <a href="https://github.com/Vulie13/Microsoft-Sentinel-SIEM-Project/blob/main/README.md">Microsoft-Sentinel-SIEM-Project</a>|
 | Log Analysis, Threat Detection & Penetration Testing  | <a href="https://github.com/Vulie13/Cowrie-Honeypot-Project/blob/main/README.md">Cowrie-Honeypot-Project</a>|
-
+| Automation Solution & Security Integrating for incident correlation and detection  | <a href="https://github.com/Vulie13/SIEM-Integration-with-Artifical-Intelligence-ChatGPT/blob/main/README.md">SIEM-Integration-with-Artifical-Intelligence-ChatGPT</a> |
+ 
 
 ## Tools
 
@@ -78,7 +79,7 @@ My journey in computer Engineering has led me to develop a passion for cybersecu
 <img src="https://img.shields.io/badge/-AWS%20Certified%20Solutions%20Architect%20Associate-FF9900?&style=for-the-badge&logo=amazonaws&logoColor=white" />
     <img src="https://img.shields.io/badge/-CCNA%20Networking-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft%20Azure%20Fundamentals-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> 
 </div>
 
 ## Courses Completed
@@ -87,7 +88,9 @@ My journey in computer Engineering has led me to develop a passion for cybersecu
     <img src="https://img.shields.io/badge/-Linux%20Unhatched-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
     <img src="https://img.shields.io/badge/-Intro%20to%20Cybersecurity-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
     <img src="https://img.shields.io/badge/-Networking%20Essentials-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CCNA%20Security-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CCNA%20Security-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />  <a href="YOUR_CERTIFICATE_LINK_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/View-808080?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
 </div>
 
 
@@ -107,3 +110,5 @@ My journey in computer Engineering has led me to develop a passion for cybersecu
 - <a href="https://github.com/Vulie13/Honeypot-Project-AWS/blob/main/README.md">Honeypot-Project-AWS</a>
 - <a href="https://github.com/Vulie13/Microsoft-Sentinel-SIEM-Project/blob/main/README.md">Microsoft-Sentinel-SIEM-Project</a>
 - <a href="https://github.com/Vulie13/Cowrie-Honeypot-Project/blob/main/README.md">Cowrie-Honeypot-Project</a>
+- <a href="https://github.com/Vulie13/SIEM-Integration-with-Artifical-Intelligence-ChatGPT/blob/main/README.md
+">SIEM-Integration-with-Artifical-Intelligence-ChatGPT</a>
